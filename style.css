@@ -1,0 +1,19 @@
+
+.container{
+    background-color:rgb(95, 223, 232);
+    width:50%;
+    border-radius: 15px;
+    
+}
+
+.header{
+    text-align: center;
+    padding:10px;
+}
+
+.row{
+    padding:10px;
+}
+
+
+
